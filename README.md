@@ -14,20 +14,22 @@ Press ENTER to start. First to land 3 hits wins. Press ENTER again to rematch.
 
 ## Assets
 
-| File | Source |
+| File | Source |s
 |------|--------|
-| `assets/sounds/punch_1.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_2.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_3.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_4.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_5.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_6.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_7.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_8.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/punch_9.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/win.wav` | Provided by course instructor as part of Week 3 starter files |
-| `assets/sounds/background.mp3` | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_1.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_2.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_3.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_4.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_5.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_6.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_7.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_8.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/punch_9.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/win.wav` [1] | Provided by course instructor as part of Week 3 starter files |
+| `assets/sounds/background.mp3` [1] | Provided by course instructor as part of Week 3 starter files |
 
 ## References
 
-[1] Sweetser, P. and Wyeth, P. 2005. GameFlow: A Model for Evaluating Player Enjoyment in Games. *Computers in Entertainment* 3, 3 (2005), 3:1–3:24. DOI: https://doi.org/10.1145/1077246.1077253
+[1] Cochrane, K. 2026. Week 3 Starter Files. Course materials [Audio files]. University of Waterloo, Stratford, Canada.
+
+[2] Sweetser, P. and Wyeth, P. 2005. GameFlow: A Model for Evaluating Player Enjoyment in Games. *Computers in Entertainment* 3, 3 (2005), 3:1–3:24. DOI: https://doi.org/10.1145/1077246.1077253
