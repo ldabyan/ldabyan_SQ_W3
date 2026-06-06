@@ -14,7 +14,7 @@ Press ENTER to start. First to land 3 hits wins. Press ENTER again to rematch.
 
 ## Assets
 
-| File | Source |s
+| File | Source |
 |------|--------|
 | `assets/sounds/punch_1.wav` [1] | Provided by course instructor as part of Week 3 starter files |
 | `assets/sounds/punch_2.wav` [1] | Provided by course instructor as part of Week 3 starter files |
